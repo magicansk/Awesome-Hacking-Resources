@@ -8,9 +8,12 @@
 
 A collection of hacking / penetration testing resources to make you better!
 
-**let's make it the biggest resource repository for our community**
+**Let's make it the biggest resource repository for our community.**
 
-**You are welcome to fork and contribute.**
+**You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
+
+We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
+
 
 Learning the Skills
 --
@@ -23,8 +26,9 @@ Learning the Skills
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 * [Hak5](https://www.hak5.org/)
 * [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk)
+* [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 
-YouTube channels
+YouTube Channels
 --
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
 * [Hak5](https://www.youtube.com/user/Hak5Darren)
@@ -48,6 +52,7 @@ YouTube channels
 * [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 * [rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ)
 * [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 * [Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A)
 * [SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg)
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
@@ -56,10 +61,13 @@ YouTube channels
 * [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
 * [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA)
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
+* [Adrian Crenshaw](https://www.youtube.com/user/irongeek)
+* [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
 Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
+* [CTFLearn](https://ctflearn.com/)
 * [CTF365](https://ctf365.com/)
 * [Pentestit](https://lab.pentestit.ru/)
 * [Hacksplaining](https://www.hacksplaining.com/)
@@ -71,6 +79,7 @@ Sharpening Your Skills
 * [Backdoor](https://backdoor.sdslabs.co)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Hack.me](https://hack.me/)
+* [Hack this site!](https://www.hackthissite.org/)
 * [Exploit exercises](https://exploit-exercises.com/)
 * [PentesterLab](https://pentesterlab.com/)
 * [SmashTheStack](http://smashthestack.org/wargames.html)
@@ -79,8 +88,15 @@ Sharpening Your Skills
 * [Shellter Labs](https://shellterlabs.com/en/)
 * [Pentest Practice](https://www.pentestpractice.com/)
 * [Pentest.training](https://pentest.training)
+* [pwnable.kr](http://pwnable.kr/)
+* [hackburger.ee](http://hackburger.ee/)
+* [http://noe.systems/](http://noe.systems/)
+* [Hacker Gateway](https://www.hackergateway.com/)
+* [Solve Me](http://solveme.safflower.kr/)
+* [Challenge Land](http://challengeland.co/)
+* [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
 
-Reverse Engineering, Buffer overflow and Exploit development
+Reverse Engineering, Buffer Overflow and Exploit Development
 --
 * [Shell storm](http://shell-storm.org/)
 * [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)
@@ -100,7 +116,7 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 
-Privileged escalation
+Privilege Escalation
 --
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
 * [Basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -118,7 +134,7 @@ Privileged escalation
 * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
 * [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)
 
-Malware analysis
+Malware Analysis
 --
 * [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
 * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
@@ -134,6 +150,18 @@ Vulnerable Web Application
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
+
+Vulnerable OS
+--
+* [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+* [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
+
+Exploits
+--
+* [Exploit Database](https://www.exploit-db.com/)
+* [CXsecurity](https://cxsecurity.com/exploit/)
+* [0day.today](http://0day.today/)
 
 Forums
 --
@@ -141,10 +169,12 @@ Forums
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
 * [Antichat](https://forum.antichat.ru/)
+* [Hacker New](https://thehackernews.com/) 
 
 Archived Security Conference Videos
 --
 * [InfoCon.org](https://infocon.org/cons/)
+* [Irongeek](http://www.irongeek.com/)
 
 Online Communities
 --
