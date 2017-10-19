@@ -169,6 +169,7 @@ Forums
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
 * [Antichat](https://forum.antichat.ru/)
+* [Hacker New](https://thehackernews.com/) 
 
 Archived Security Conference Videos
 --
@@ -178,3 +179,4 @@ Archived Security Conference Videos
 Online Communities
 --
 * [Hack+](http://t.me/hacking_group_channel)
+
